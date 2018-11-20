@@ -23,11 +23,12 @@ loading the dataset.
 
 `@pre_exercise_code`
 ```{python}
-library(AER)
+
 ```
 
 `@sample_code`
 ```{python}
+library(AER)
 data("Affairs")
 ```
 
