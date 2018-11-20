@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+loading the dataset. 
 
 `@instructions`
 
@@ -23,12 +23,12 @@ This is an example exercise.
 
 `@pre_exercise_code`
 ```{python}
-
+library(AER)
 ```
 
 `@sample_code`
 ```{python}
-
+data("Affairs")
 ```
 
 `@solution`
